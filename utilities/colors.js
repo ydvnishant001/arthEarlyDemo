@@ -1,0 +1,21 @@
+export const Colors = {
+    header: "#010101",
+    black: "#000000",
+    purple: "#7869E6",
+    white: "#FFFFFF",
+    lightPink: "#FBEBEE",
+    lightPurple: "#EAEBFD",
+    lightGreen: "#E7F3C3",
+    lightOrange: "#FEE1D1",
+    mediumPurple: "#F1E2F7",
+    lightYellow: "#FFEBB9",
+    grey: "#99A2AD",
+    gray: "#333333",
+    separator: "#D0D0D0",
+    greyTwo: "#777777",
+    green: "#00B1B1",
+    orange: "#FA8072",
+    yellow: "#FFD361",
+    greyThree: "#DBDBDB",
+
+  };
